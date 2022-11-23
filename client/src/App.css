@@ -1,0 +1,15 @@
+.header {
+  background: linear-gradient(90deg, #f7f7f7, #ff3a3a);
+}
+
+.header a {
+  margin-left: 20px;
+  margin: 20px;
+
+}
+
+.main {
+  padding: 20px;
+  margin: 20px;
+  background: linear-gradient(15deg, #d1fcfc, #ff3a3a);
+}
